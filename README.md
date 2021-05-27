@@ -1,6 +1,6 @@
 ## Splash Page - Gif
 
-[![Design](https://s3.gifyu.com/images/splash-page.gif)](https://s3.gifyu.com/images/splash-page.gif)
+[![Design](splash-page.gif)](splash-page.gif)
 
 ## Front End Challenge
 
