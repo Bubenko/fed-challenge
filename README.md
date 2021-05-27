@@ -1,3 +1,7 @@
+## Splash Page - Gif
+
+[![Design](https://s3.gifyu.com/images/splash-page.gif)](https://s3.gifyu.com/images/splash-page.gif)
+
 ## Front End Challenge
 
 [![Design](https://raw.githubusercontent.com/qualialabs/fed-challenge/master/designs/thumbnail.jpg)](https://raw.githubusercontent.com/qualialabs/fed-challenge/master/designs/page.jpg)
